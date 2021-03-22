@@ -1,2 +1,2 @@
 # flashcard
-Personal flashcard website for studying using django
+Personal flashcard website for studying (created with django)
